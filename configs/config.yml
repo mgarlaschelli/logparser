@@ -1,0 +1,7 @@
+filters:
+  - name: Error filter
+    filtertype: REGEXP
+    pattern: .*stringa*
+  - name: Expression Filter
+    filtertype: EXPRESSION
+    pattern: ("ciccio pluto" || "paperino")

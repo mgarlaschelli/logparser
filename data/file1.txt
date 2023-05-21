@@ -1,0 +1,8 @@
+Prima linea
+Seconda linea
+Terza Linea
+prova
+Quinta Linea
+Sesta Linea
+La mia stringa ha un match
+Questa stringa dovrebbe avere un match
